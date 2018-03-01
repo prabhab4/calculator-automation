@@ -13,7 +13,7 @@ Available parameters to pass:
 
 
 # Flow of the project
- *runner/RunCalculatorTest.java -> features/calculator.feature -> (stepdefinitions/Hooks.java AND stepdefinitions/CalculatorStep.java*
+ *runner/RunCalculatorTest.java -> features/calculator.feature -> (stepdefinitions/Hooks.java AND stepdefinitions/CalculatorStep.java)*
 
 # Further info on project
  - This Project uses Cucumber feature files as test cases
